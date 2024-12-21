@@ -1,6 +1,5 @@
 <center>
 
-# MarzneshinIpLimit
 
 <b>Limiting the number of active users with IP for [Marzneshin](https://github.com/marzneshin/marzneshin)</b><sub> (with xray logs)</sub><br>
 Supports both IPv4 and IPv6
