@@ -1,0 +1,10 @@
+services:
+  marzneshin_ip_limit:
+    image: ghcr.io/kizil-aslan/marzneshiniplimit:main
+    restart: always
+    environment:
+      PORT: 5000
+    network_mode: host
+    volumes:
+      - /opt/marzneshiniplimit/config.json:/marzneshiniplimitcode/config.json
+      - /opt/marzneshiniplimit/app.log:/marzneshiniplimitcode/app.log

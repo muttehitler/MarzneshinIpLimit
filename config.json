@@ -1,0 +1,17 @@
+{
+    "WRITE_LOGS_TF": "True",
+    "SEND_LOGS_TO_TEL": "True",
+    "GENERAL_LIMIT":1,
+    "LOG_FILE_NAME": "marzneshiniplimitlogs.log",
+    "BOT_TOKEN": "BotToken",
+    "ADMINS":[234322351123],
+    "EXCEPT_USERS": [],
+    "PANEL_USERNAME": "username",
+    "PANEL_PASSWORD": "pass",
+    "PANEL_DOMAIN": "address:port",
+    "CHECK_INTERVAL": 30,
+    "TIME_TO_ACTIVE_USERS": 2400,
+    "SPECIAL_LIMIT": [],
+    "outOfLimitNumber": 3,
+    "IP_LOCATION":"IR"
+}
